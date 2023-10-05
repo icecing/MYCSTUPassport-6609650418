@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -46,7 +47,7 @@ div.gallery {
     margin: 35px;
     border: 2px solid #ccc;
     float: left;
-    width: 400px;
+    width: 300px;
     text-align: center;
   }
   
