@@ -12,16 +12,17 @@ body {
     padding: 0;
 }
 h1{ 
-    margin: 20px;
+     
     color: #000000;
-    font-size: 300%; 
+    font-size: 40px; 
+    margin-left: 100px;
     text-align: center;
 }
 h2{
     
     color: #000000;
     font-size: 40px; 
-    margin-left: 220px;
+    margin-left: 100px;
     padding: 80px;
     text-align: left;
 }
@@ -44,7 +45,7 @@ h3{
     font-size: 25px; 
     color: #000000;
     margin-bottom: 100px;
-    padding-left: 300px ;
+    padding-left: 170px ;
     text-align: left;
 }
 .column3{
@@ -52,17 +53,10 @@ h3{
     color: #000000;
     text-align: center;
 }
-.profile{
-    position: absolute;
-    height: 70%;
-    top: 33%;
-    bottom: 0;
-    right: 300px;
-    border-radius: 10%;
-}
+
 nav {
     padding: 1rem;
-    background-color: #444444;
+    background-color: #505050;
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
@@ -84,8 +78,11 @@ nav {
     color:#fff;
     text-decoration: none;
 }
-
-
-
-  
-
+.profile{
+    position: absolute;
+    height: 70%;
+    top: 43%;
+    bottom: 0;
+    right: 300px;
+    border-radius: 10%;
+}
